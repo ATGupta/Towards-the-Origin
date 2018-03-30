@@ -19,7 +19,7 @@
 
   </dependencies>
   <build>
-    <finalName>tto</finalName>
+    <finalName>root</finalName>
       <plugins>
           <plugin>
               <artifactId>maven-war-plugin</artifactId>
