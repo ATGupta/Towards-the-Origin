@@ -1,0 +1,54 @@
+<h2 style="text-align:center">FILL THIS FORM FOR COMMENTS / SUGGESTIONS</h2>
+<form id="gform" name="gform" onsubmit="return checkEntries()" method="POST" action="https://script.google.com/macros/s/AKfycbzhtV5HhU6hmO9Obnl14CFHeUn99nm4Xm_9Ml3gt_7H3jyw-7oV/exec">
+
+	<p style="text-align:center">Name:
+	
+	<p style="text-align:center">
+	<input id="Name" name="Name" placeholder="Your Full Name"
+		style="width:100%;text-align:center;padding:12px 20px;border:1px solid black;border-radius:4px;" />
+    
+    <p style="text-align:center">Email:
+    
+    <p style="text-align:center">
+    <input id="Email" name="Email" placeholder="Your Email address" 
+		style="width:100%;text-align:center;padding:12px 20px;border:1px solid black;border-radius:4px;" />
+    
+    <p style="text-align:center">Message:
+    
+    <p style="text-align:center">
+    <textarea id="Message" name="Message" placeholder="Your Message"
+		rows=9 style="width:100%;padding:12px 20px;border:1px solid black;border-radius:4px;"></textarea>
+    
+    <p style="text-align:center">
+    <br>
+    <button 
+    	style="width:70%;padding:12px 12px;border:1px solid black;border-radius:4px;background-color: rgb(255,200,0);color:rgb(255,255,255)" >
+    Send</button>
+	
+	<p><br>
+	
+</form>
+<script>
+	function checkEntries(){
+		var input=document.getElementById("Name").value;
+		if(input==""){
+			alert("No name Entered.!");
+			return false
+		}
+		var input=document.getElementById("Email").value;
+		if(input==0){
+			alert("No email id Entered.!");
+			return false
+		}
+		if(input.indexOf('@')<0){
+			alert("Invalid Email address.!");
+			return false
+		}
+		var input=document.getElementById("Message").value;
+		if(input==0){
+			alert("No message Entered.!");
+			return false
+		}
+		return true
+	}
+</script>

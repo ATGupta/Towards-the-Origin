@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <title>Towards the origin.</title>
+        <link rel="shortcut icon" href="Resources_TTO_ATG/title_image"/>
+        <link href="Resources_TTO_ATG/styles.css" type="text/css" rel="stylesheet"/>
+        
+    </head>
+    <body >
+        <div id="header">
+        	<table style="width:90%">
+        		<tbody>
+        			<tr>
+        				<td>
+        					<a  title="TTO" href="./">
+                				<img src="Resources_TTO_ATG/title_image" id="headerImage" style="height: 132px; width: 132px">
+            				</a>
+            			<td>
+            				<h1 style="text-align: center">
+                				TOWARDS THE ORIGIN
+            				</h1>
+            	</tbody>
+            </table>
+        </div>
+        <div id="nav">
+            <ul>
+                <li>
+                    <a href="./">Home</a>
+                </li>
+                <li>
+               		<a href="?un=Home&ch=contents">Contents</a>
+				</li>
+                <li>
+					<a href="?un=Home&ch=contact">Contact Us</a>
+                </li>
+                <li>
+                	<a href="?un=Home&ch=acknowledgement">Acknowledgements</a>
+                </li>
+            </ul>
+        </div>
+        <p></p>
