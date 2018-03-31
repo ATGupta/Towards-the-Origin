@@ -1,0 +1,102 @@
+<h2 style="text-align: center">DNA AND BASICS</h3>
+
+<p><b>DNA</b>
+
+<p>The backbone of DNA is made from alternating sugar and phosphate molecules. The sugar that makes up the backbone is deoxyribose. The phosphate is acidic; and this was found in the nuclei of the cells. That's where the word Deoxyribonucleic Acid comes from.
+<p>For every acid, there is a base. In between this backbone structure, there is a rung of ladder. Each rung is a pair of bases. These bases are any possible of the four of the following: Adenine, Thymine, Guanine, Cytosine; that's where the information is supposed to be stored. It is to be noted that Adenine always pairs with Thymine, and Guanine always pairs with Cytosine. So what we actually will see is the A-T rung, or a G-C rung. The order in which these base pairs are sequenced actually forms the genetic code. See the figure below.
+\image image1
+<p>It has been found that the human genome has 6 billion base pairs. These 6B base pairs are spread over 46 chromosome. The width of a DNA strand is of the order of 1nm.
+
+<p><b>Molecular structure of DNA</b>
+
+<p>The structure of various compounds can be seen in the figure below.
+
+\image image2
+<p>The image above shows us the molecular structure of various organic compound that compose our DNA, and the ribose and deoxyribose rings. The nitrogenous bases which contain 2 rings are called <b>purines</b>; those which contain one ring are called <b>pyrimidines</b>. So, for example, C and T are pyrimidines, and A and G are purines.
+<p>In deoxyribose, the 4' carbon has an oxygen attached to it. This O atom uses one of its lone pairs to bond with the 1' carbon, forming the actual ring that we see in the DNA molecule. See the figure below. Similarly, ribose forms the ring. Ribose contains an O atom at 2' carbon, whereas deoxyribose does not have.
+
+\image image3
+<p>All these compounds, A, T, G, C, phosphate, ribose and deoxyribose combine to form longs chains of the DNA molecule. See the figure below.
+\image image4
+<p>We can see the negative charge on the phosphate group. It is because it has a hydrogen attached to it initially; but as soon as it is put into a neutral solution, it loses its hydrogen very readily. That's where DNA got "acid" in its name, although phosphate is a negatively charged, basic ion.
+<p>A is bonded to T, and G is bonded to C, by hydrogen bond, because of the partial positive charge developed over hydrogen and a partial negative charge developed over nitrogen or oxygen in the opposite molecule, as can be seen in the picture above. These hydrogen bonds play a vital role in the formation and sustenance of the actual ladder structure of the DNA.
+
+<p><b>Antiparallel Structure of DNA</b>
+
+<p>As we can clearly see in the figure above, in the right side of the backbone of the DNA ladder, the sugar (deoxyribose) rings have oxygen at the top, whereas on the left side, the O atoms are present at the bottom of the ring.
+<p>At the right side, we see the phosphate group at the 5' carbon of the first sugar ring, following another phosphate at the 3' C atom. This is happening with each sugar ring on the right side of the DNA backbone. On the left side, for each sugar ring, we first see the phosphate group at 3' C and then on the 5' C atom.
+<p>So on the left hand chain, we go from 5' to 3' whereas on the right hand side, we go from 3' to 5'. Hence we call the structure of DNA antiparallel.
+
+<p><b>Chromosome, Gene and Allele</b>
+
+<p>A chromosome is DNA packed up with other molecules and proteins that give it a broader structure.
+<p>A gene is a section of DNA used to express a certain trait about the cell (or an organism). One gene defines one protein.
+<p>In different organisms of same species, for example, the same gene, which corresponds to a particular trait, can be coded differently. These different genes may correspond to same trait resulting in a variation. Allele is each particular variation of that gene.
+<p>So genes for same trait coded differently are different alleles for same characteristic.
+
+<p><b>RNA</b>
+
+<p>The way a gene is expressed, the way we get information for that section of DNA into a protein, is through RNA - ribonucleic acid, a related molecule to DNA. RNA plays the role of a messenger from a gene to outside of the nucleus so that that information can be translated into the corresponding protein. Construction of mRNA (messenger RNA) from DNA is called <b>transcription</b>. See the section Transcription.
+<p>Here, half longitudinal strand is taken from the gene of DNA. Adenine now pairs with Uracil, Thymine still pairs with Adenine, Guanine pairs with Cytosine, and Cytosine is going to pair with Guanine. See the image below. RNAs are usually single stranded.
+\image image5
+<p>This code now attaches to ribosomes and further process takes place. This code can be used to code for proteins. This base pair sequence is turned into an amino acid sequence. Every 3 base pairs are used to code a specific amino acid. In this process we take the newly added mRNA bases, which were earlier added to the half DNA strand, to code for corresponding amino acids.This process is called <b>translation</b>.
+<p>A three letter sequence is called a codon. We have 64 [4<sup>3</sup>] possible codons of 3 letter (base-pair) sequence. We have only 20 amino acids. So, several distinct codons can translate to same amino acid, or otherwise used for other purposes.
+<p>Another type of RNA, tRNA is used to attach those amino acids to the codons.
+
+<p><b>Gender Determination</b>
+
+<p>In certain reptiles gender determination is environmental. It depends on the temperature, for example, that an embryo develops into a male or a female. In mammals, on the other hand, its genetic. Several characteristics are there which differentiate a male from a female. It's not just a set of genes, but whole chromosomes are used to determine gender characteristics.
+<p>In humans, 22 pairs of chromosomes, called autosomes, are non-gender-determining chromosomes. They are homologous. One pair contains our sex determining chromosomes. They are non homologous. The longer one is the X chromosome. The shorter one is a Y chromosome. See the figure below.
+
+\image image6
+<p>There will be an X chromosome from the female parent. There may be an X, or a Y chromosome from the male parent. If, from the male parent, it is an X chromosome which takes part in developing the embryo, the offspring will develop into a female; if its a Y chromosome, the offspring will develop into a male.
+<p>The X chromosome codes about 1500 genes, whereas the Y chromosome codes only for 78 genes. There is a gene in the Y chromosome, called SRY, which is responsible for the development of testes.
+<p>The genes that contains the traits of hemophilia and color blindness are the mutated alleles in the X chromosomes. For a female to have hemophilia, she has to have it on both chromosome, otherwise she just is a carrier of the gene. For a male to have hemophilia, he has to have it just on one X chromosome because they don't have the other X chromosome to dominate it. See the image below.
+\image image7
+
+<p><b>DNA Replication</b>
+
+<p>Topoisomerase unwinds the DNA. Helicase breaks the left and right chain. The DNA polymerase keeps adding the nucleotides at the 3' end.
+<p>On the other half chain of the DNA, we will need to add nucleotides in the 5' end. So this is done by adding RNA primers somewhere in the middle. An RNA primer molecule is a cluster of  several nucleotides. Once the primer is added, the polymerase can add DNA nucleotides towards the 3' end. When at the other side, 5' end of DNA comes, DNA ligase puts those fragments together. The initial RNA primer is replaced with DNA.
+<p>Topoisomerase, helicase, DNA polymerase, and DNA ligase are all enzymes. See the image below.
+\image image8
+<p>In E Coli, DNA polymerase has been clocked 1000 base pairs each second.
+
+<p><b>Transcription</b>
+
+<p>Transcription generally means we-writing.
+<p>In procaritotes, mRNA is formed from the DNA. Then it can be involved with ribosome to produce polypeptides. See the image below.
+<p>In Eucaryotes, mRNA is formed inside the nucleus. First something called pre mRNA forms from DNA. After some processing, it gets converted to mRNA. Then it leaves the nucleus to translate into a protein.
+\image image9
+<p>In prokaryotes, first of all RNA polymerase creates a nucleotide sequence which will become mRNA. It knows where to start by detecting a promoter. Every gene has a promoter associated with it. Sometimes, a promoter is associated with more than one genes.
+\image image10
+<p>The RNA polymerase separates the DNA strand and codes for the RNA. It adds nucleotides to the RNA strand in 5' to 3' direction. It adds nucleotides in the 3' end.
+\image image11
+<p>The mRNA that is formed contains Uracil instead of Thymine. Rest all are same as the opposite strand to the on on which the RNA polymerase is working. So it is pretty much coding the same information.
+<p>The RNA polymerase stops encoding for the mRNA once it detects for the termination sequence that it recognizes as the end. It makes a loop structure at the end of the RNA
+\image image12
+<p>In eukaryotes, only the pre-mRNA is formed uptil now. Now a 5' cap is added at the 5' end; which is modified guanine. A poly-Adinine tail is added to the 3' end of the pre-mRNA sequence. These are going to help in the translation process as the ribosomes attach to it.
+<p>In this sequence, some nonsense sequences are also present. We call them introns. These are not going to code for protein that our initial was destined to translate. These are spliced out by biological processes in the eukaryotic cells.
+<p>Now we get the mature mRNA. It then migrates out of the nucleus to a ribosome where it can be translated.
+\image image13
+<p>Uracil is a bit less stable than Thymine.
+<p>tRNA has amino acids attached on one end, and anticodons on the other end, which lets it to pair with the codons of the mRNA and form proteins.
+<p>There are rRNA (ribosomal RNA), which lay a structural role in ribosomes, which is where translation occurs.
+<p>microRNA are short chains of RNA.
+
+<p><b>Translation</b>
+
+<p>Ribosome is made up of proteins and rRNA. It traverses through each codon, group of three nucleotides, and translate to corresponding protein. Ribosome initially attach to the AUG codon, and move towards the 3' end. So AUG is called the start codon.
+<p>There are 64 possible codons. There are actually only 20 standard amino acids encoded by the universal genetic code. The remaining 2, <b><i>selenocysteine</i></b> and <b><i>pyrrolysine</i></b>, are incorporated into proteins by unique synthetic mechanisms.
+\image image14
+<p>61 codons translate to amino acids, and 3 codons play a role for ribosomes as a signal to stop.
+<p>tRNA, the transfer RNA, plays a role here. The tRNA actually contains the complement of the codons in the mRNA, and the protein corresponding to the codons of mRNA.
+<p>One end of the tRNA molecule has the codon that pairs with the codons of mRNA, and the other end of the tRNA contains the actual amino acid, one of which is binded in each step of decryption to form a polypeptide chain. Each type of tRNA molecule can be attached to only one type of amino acid. There are 61 different types of tRNA molecules.
+\image image15
+
+<p>All this process is facilitated at the three sites of ribosome - A site, P site, and E site.
+<p>A site (A stands for aminoacyl) is the place where a tRNA comes to bind on the ribosome. Then it gives away the amino acid and the amino acid bonds to the amino acid of the tRNA placed centrally in the ribosome.
+<p>Then they both move to left. The central one to E site and the one at the A site to the central position. Actually the ribosome moves to the right, to the 3' side.
+<p>The P site is where the polypeptide chain is actually forming. The E site is the exit site. The tRNA leaves the ribosome from here.
+<p>This is going to happen continuously until we get to one of the stop codons.
+<p>Antibiotics that we take differentiate between the prokaryotic cells and our eukaryotic cells. They disrupt the ribosomal functioning of the eukaryotes but do not harm ours.
