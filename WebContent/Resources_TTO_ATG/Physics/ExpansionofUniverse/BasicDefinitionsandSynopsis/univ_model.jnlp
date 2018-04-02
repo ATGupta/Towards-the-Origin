@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <jnlp spec="1.0+" 
-        codebase="http://master-towards-the-origin.7e14.starter-us-west-2.openshiftapps.com/tto/Resources_TTO_ATG/Physics/ExpansionofUniverse/BasicDefinitionsandSynopsis/"
+        codebase="http://master-towards-the-origin.7e14.starter-us-west-2.openshiftapps.com/tto/Resources_TTO_ATG/Physics/ExpansionofUniverse/BasicDefinitionsandSynopsis"
         href="univ_model.jnlp">
     <information>
         <title>Proposed Universe model</title>
