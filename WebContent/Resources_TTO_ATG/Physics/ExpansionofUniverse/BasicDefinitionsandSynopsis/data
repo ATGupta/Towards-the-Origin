@@ -73,7 +73,15 @@
 <p>The following model of the universe is proposed.
 <p>The boundaries of the universe changes its size according to the following equation.
 <p style="text-align: center"><i>x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> = K<sup>2</sup>T<sup>2</sup>cos<sup>2</sup>&#952</i>
-<p>The factor K may be a constant, or a variable. Through this equation, it is proposed that our universe undergoes cycles of big bangs and big crunches. It can be seen that it is an equation of a series of spheres.
+<p>The factor K may be a constant, or a variable. Through this equation, it is proposed that our universe undergoes cycles of big bangs and big crunches. It can be seen that it is an equation of a series of spheres, as proposed by the imagery below presented by the java program.
+
+<p style="text-align: right">(Make sure javaws is installed on your computer.
+<br>and it is associated with <b>.jnlp</b> files.
+<br>Make sure this website is added to sites list
+<br>of your compputer's Java Control Panel's
+<br>security exception site list.)
+<p style="text-align: center">Click <a href="Resources_TTO_ATG/Physics/ExpansionofUniverse/BasicDefinitionsandSynopsis/univ_model.jnlp""><u>here</u></a> to go to the application.
+
 <p>The term t represents the length of time from the mid point of the total time length and is a constant. So the current time
 <p style="text-align: center">T<sub>current</sub> = T cos &#952
 <p>x, y and z represent the 3-dimensional space coordinate limits. Assuming that x, y and z will remain equal at any point of time, their value being equal to the then radius of the universe.
