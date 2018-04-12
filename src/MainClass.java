@@ -91,7 +91,7 @@ public class MainClass extends HttpServlet {
 			} else if (st.startsWith("\\image")) {
 				st = st.substring(7);
 				st = "Resources_TTO_ATG/" + path + st;// path already contains "/" at the end
-				sw.println("<p style=\"text-align: center\"><img style=\"height: 300px\" src=\"" + st + "\">");
+				sw.println("<p style=\"text-align: center\"><img style=\"max-height: 300px; max-width: 80%;\" src=\"" + st + "\">");
 				continue;
 			}
 			sw.println(st);
