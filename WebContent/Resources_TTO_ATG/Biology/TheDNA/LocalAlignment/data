@@ -1,0 +1,58 @@
+<h2 style="text-align: center">LOCAL ALIGNMENT</h2>
+<p style="text-align: right">04-04-2018
+
+<p><b>Di-deoxyribose</b>
+<p>There is another significant compound named di-deoxyribose. In the ribose molecule, 2 OH groups are present, at 2' and 3' C atoms, in deoxyribose an OH group at 3' C atom (it is deficit by one OH at 2'), in di-deoxyribose molecule, both OH groups are absent from 2' and 3' C atoms. See the image below.
+
+\image image1
+<p>At 5' Carbon atom only, the phosphate group is attached. See the image below.
+
+\image image2
+<p>3' is the C atom where the chain is extended further. If DNA polymerase takes a template and some dideoxynucleotides, they won't be able to extend because there won't be any OH attached to the 3' carbon.
+<p>This is the basis of Sanger sequencing. Frederick Sanger got nobel prize for it in 1980. Sanger sequencing takes advantage of the special property of dideoxynucleotides that they terminate the growing chain.
+
+<p><b>Sanger sequencing</b>
+
+\image image3
+<p>Sanger sequencing method is the method that can be used to sequence the genome (of homosapiens, for instance, or other orgnisms).
+<p><u>Action 1</u>:
+<p>Heat is used to denature DNA. 
+<br>The DNA splits into two strands. 
+<br>A primer is annealed to the 5’ end of the DNA. 
+<br>The primed DNA is then put into 4 vessels. 
+<br>DNA polymerase is added to each vessel. 
+<br>All four dNTPs are added to all the reaction vessels. 
+<br>Specially modified ddNTPs are added to the vessels, only one type in one, say ddATP in v1, ddTTP in v1, ddGTP in v1, and ddCTP in v1.
+<p><u>Observation</u>:
+<p>The polymerase attaches the dNTPs to the template strand at the primer normally until ddNTP is paired. 
+<br>Once ddNTP is paired, the sequence is terminated because the ddNTP lacks the OH at the 3’ C atom. 
+<br>As a result of the chain termination, DNA fragments of different lengths are formed across all the reaction vessels.
+<p><u>Action 2</u>:
+<p><b>Polyacrylamide Gel Electrophoresis</b> is used to sequence the DNA.
+<p><b>Electrophoresis</b>:
+<br>Samples and markers are loaded into wells at the top of the gel.
+<br>A running buffer is added.
+<br>The buffer is connected to DC power source, negative charge on the top, positive charge at the bottom.
+<br>Polyacrylamide Gel contains pores through which the DNA material will move downwards.
+<br>A dye front (like bromophenol blue) is mixed with the sample. Its size is small, so it moves ahead of the sample.
+<br>The position of dye front tells us how far the sample has reached.
+<br>Once the dye front reaches the bottom of the gel, Electrophoresis is complete.
+<p><u>Observation</u>:
+<p>DNA migrates from the negative pole towards the positive pole, because of the negative charge imparted by the phosphate backbone. 
+<br>The smaller the DNA strand is, the lighter it is, the further it migrates towards the positive electrophoresis plate. 
+<br>This results to the formation of band patterns along the length of the plate. 
+<br>The sequence is read from the bottom of the plate. 
+<br>This whole process results in the complementary sequence of the DNA sample.
+
+<p><u>Further</u>:
+<p>Polyacrylamide Gel is used instead of Agarose Gel because it has high resolving power and can separate DNA strands that differ in length by 1 base pair.
+
+\image image4
+<br>Sanger sequencing
+
+\image image5
+<br>Electrophoresis
+
+\image image6
+<br>DNA Sequencing
+

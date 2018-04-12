@@ -1,4 +1,4 @@
-<h2 style="text-align: center">DNA AND BASICS</h3>
+<h2 style="text-align: center">DNA AND BASICS 1</h2>
 
 <p style="text-align: right">2018-03
 
@@ -44,6 +44,12 @@
 <p>This code now attaches to ribosomes and further process takes place. This code can be used to code for proteins. This base pair sequence is turned into an amino acid sequence. Every 3 base pairs are used to code a specific amino acid. In this process we take the newly added mRNA bases, which were earlier added to the half DNA strand, to code for corresponding amino acids.This process is called <b>translation</b>.
 <p>A three letter sequence is called a codon. We have 64 [4<sup>3</sup>] possible codons of 3 letter (base-pair) sequence. We have only 20 amino acids. So, several distinct codons can translate to same amino acid, or otherwise used for other purposes.
 <p>Another type of RNA, tRNA is used to attach those amino acids to the codons.
+
+<p><b>Primer</b>
+
+<p>Primer is a substance used as a preparatory coat on wood, metal, or canvas, especially to prevent the absorption of subsequent layers of paint or the development of rust.
+<p>In experimental biology, a primer is a short strand of RNA or DNA (generally about 18-22 bases) that serves as a starting point for DNA synthesis. It is required for DNA replication because the enzymes that catalyze this process, DNA polymerases, can only add new nucleotides to an existing strand of DNA.
+
 
 <p><b>Gender Determination</b>
 
