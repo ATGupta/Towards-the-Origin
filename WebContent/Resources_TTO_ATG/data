@@ -13,7 +13,7 @@
 			<td>
 				<p style="text-align:center">Latest Updates
 				<br>
-				<iframe scrolling="no" src="Resources_TTO_ATG/latest" width="300" height="250"></iframe>
+				<iframe scrolling="no" src="Resources_TTO_ATG/latest.html" width="300" height="250"></iframe>
 		<tr>
 	</tbody>
 </table>
